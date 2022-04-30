@@ -10,7 +10,12 @@
   Sempre gostei de novos desafios, por isso decidi me aventurar no mundo Tech iniciando meus estudos em Desenvolvimento Web e atualmente estou cursando a Formação Full Stack oferecido pela instituição Resilia Educação.
   Movida pelo impacto na vida das pessoas, me interessei pela área por enxergar possibilidades ilimitadas e incríveis de mudar a vida delas através da tecnologia, ela que transforma o presente e vai revolucionar o futuro.
 
-Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês, básico II em espanhol e atualmente aprendendo frances, também me comprometendo a evoluir meus conhecimentos nessa incrível jornada do web design através de cursos de UX/UI.
+Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês, básico II em espanhol e atualmente aprendendo frances, também me comprometendo a evoluir meus conhecimentos nessa incrível jornada do web design através de cursos de UX/UI e inteligencia artificial.
+  
+  ## Interesses
+  - Web Design
+  - Game Design
+  - Inteligencia artificial
   
   ## Tecnologias e Redes
   <div style="display: inline_block"><br>
