@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://user-images.githubusercontent.com/87023023/178980410-6230ab71-f48f-4419-a7d7-f585eb60dbe1.png" width="200" height="200"> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/87023023/178999455-77c22620-693b-4a2c-9a14-78b78228894c.png" width="200" height="200"> </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/est8r">
