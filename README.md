@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/est8r">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=est8r&show_icons=true&theme=dracula&include_all_commits=true"/>
-  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=est8r&show_icons=true&theme=dracula&include_all_commits=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=est8r&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
   <br>
   
   ## Sobre mim | Ela/Dela | 21 anos
