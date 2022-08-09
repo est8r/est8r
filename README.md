@@ -17,7 +17,8 @@ Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês
   
   ## Interesses
   - Web Design
-  - Game Design
+  - Game Design & Developing
+  - Testes Automatizados
   - Inteligencia artificial
   
  <br>
