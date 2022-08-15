@@ -77,8 +77,8 @@ showInfo: function() {
     alert("Contact me: " + this.email + "and " + this.linkedin);
   }
 
-/*I am self-taught, having thus acquired advanced level knowledge in English, basic II in Spanish and currently learning French,
-also committing to evolve my knowledge in this incredible journey of web design through UX/UI and artificial 
+/*I am self-taught, having thus acquired advanced level knowledge in English, basic II in Spanish and currently learning
+French, also committing to evolve my knowledge in this incredible journey of web design through UX/UI and artificial 
 intelligence courses. */
 ```
   
