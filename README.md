@@ -11,10 +11,14 @@
   <br>
   
   ## Sobre mim | Ela/Dela | 21 anos
-  Sempre gostei de novos desafios, por isso decidi me aventurar no mundo Tech iniciando meus estudos em Desenvolvimento Web, sou formada no bootcamp Full Stack oferecido pela instituição Resilia Educação e atualmente estou cursando bacharelado em Ciencia da Computação na Universidade Federal do ABC - UFABC.
-  Movida pelo impacto na vida das pessoas, me interessei pela área por enxergar possibilidades ilimitadas e incríveis de mudar a vida delas através da tecnologia, ela que transforma o presente e vai revolucionar o futuro.
+  Sempre gostei de novos desafios, por isso decidi me aventurar no mundo Tech iniciando meus estudos em Desenvolvimento Web, sou
+  formada no bootcamp Full Stack oferecido pela instituição Resilia Educação e atualmente estou cursando bacharelado em Ciencia
+  da Computação na Universidade Federal do ABC - UFABC.
+  Movida pelo impacto na vida das pessoas, me interessei pela área por enxergar possibilidades ilimitadas e incríveis de mudar a
+  vida delas através da tecnologia, ela que transforma o presente e vai revolucionar o futuro.
 
-Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês, também me comprometendo a evoluir meus conhecimentos nessa incrível jornada do web design através de cursos de inteligencia artificial.
+  Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês, também me comprometendo a evoluir meus
+  conhecimentos nessa incrível jornada do web design através de cursos de inteligencia artificial.
   
   ## Interesses
   - Web Design
@@ -23,6 +27,7 @@ Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês
   
  <br>
   <div align="center" style="display: inline_block"><br>
+  [<img align="left" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"" />][webdevplaylist]
   <img align="center" alt="ester-Typescript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="ester-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ester-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -42,8 +47,11 @@ Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês
   ```JavaScript
 //ENGLISH
 
-/* I always liked new challenges, that's why I decided to venture into the Tech world starting my studies in Web Development, I graduated from the Full Stack bootcamp offered by Resilia Educação and I'm currently studying a bachelor's degree in Computer Science at the Federal University of ABC - UFABC.
- Moved by the impact on people's lives, I became interested in the area because I saw unlimited and incredible possibilities to change their lives through technology, technology that transforms the present and will revolutionize the future. */
+/* I always liked new challenges, that's why I decided to venture into the Tech world starting my studies in Web Development,
+I graduated from the Full Stack bootcamp offered by Resilia Educação and I'm currently studying a bachelor's degree in Computer
+Science at the Federal University of ABC - UFABC.
+ Moved by the impact on people's lives, I became interested in the area because I saw unlimited and incredible possibilities to
+change their lives through technology, technology that transforms the present and will revolutionize the future. */
 
 const aboutMe = {
   name: 'Ester Messias',
