@@ -11,26 +11,25 @@
   <br>
   
   ## Sobre mim | Ela/Dela | 21 anos
-  Sempre gostei de novos desafios, por isso decidi me aventurar no mundo Tech iniciando meus estudos em Desenvolvimento Web e atualmente estou cursando a Formação Full Stack oferecido pela instituição Resilia Educação.
+  Sempre gostei de novos desafios, por isso decidi me aventurar no mundo Tech iniciando meus estudos em Desenvolvimento Web, sou formada no bootcamp Full Stack oferecido pela instituição Resilia Educação e atualmente estou cursando bacharelado em Ciencia da Computação na Universidade Federal do ABC - UFABC.
   Movida pelo impacto na vida das pessoas, me interessei pela área por enxergar possibilidades ilimitadas e incríveis de mudar a vida delas através da tecnologia, ela que transforma o presente e vai revolucionar o futuro.
 
-Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês, básico II em espanhol e atualmente aprendendo frances, também me comprometendo a evoluir meus conhecimentos nessa incrível jornada do web design através de cursos de UX/UI e inteligencia artificial.
+Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês, também me comprometendo a evoluir meus conhecimentos nessa incrível jornada do web design através de cursos de inteligencia artificial.
   
   ## Interesses
   - Web Design
-  - Game Design & Developing
-  - Testes Automatizados
   - Inteligencia artificial
+  - Game Design & Developing
   
  <br>
   <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="ester-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ester-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ester-Typescript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="ester-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ester-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="ester-Bootstrap" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="ester-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ester-csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="ester-Angular" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <!-- <img align="center" alt="ester-csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <img align="center" alt="ester-react" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
@@ -43,29 +42,28 @@ Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês
   ```JavaScript
 //ENGLISH
 
-/* I've always liked new challenges, so I decided to venture into the Tech world starting my studies in Web Development and
-I'm currently taking the Full Stack Training offered by Resilia Educação. Moved by the impact on people's lives, I became
-interested in the area for seeing unlimited and incredible possibilities to change their lives through technology, which
-transforms the present and will revolutionize the future. */
+/* I always liked new challenges, that's why I decided to venture into the Tech world starting my studies in Web Development, I graduated from the Full Stack bootcamp offered by Resilia Educação and I'm currently studying a bachelor's degree in Computer Science at the Federal University of ABC - UFABC.
+ Moved by the impact on people's lives, I became interested in the area because I saw unlimited and incredible possibilities to change their lives through technology, technology that transforms the present and will revolutionize the future. */
 
 const aboutMe = {
   name: 'Ester Messias',
   age: 21,
-  about:'I am a FrontEnd Web developer student at Resilia Educação',
+  about:'I am a FrontEnd Web developer student at UFABC',
   level: 'Junior',
-  email: 'estermessias6@gmail.com'
+  email: 'estermessias.dev@gmail.com'
   linkedin: 'https://www.linkedin.com/in/ester-messias/'
   
-  programming_languages: ['JavaScript','python'],
+  programming_languages: ['javascript','react', 'angular', 'typescript'],
   
   tools: [
       'React',
-      'HTML 5',
-      'CSS 3',
+      'Angular',
+      'Typescript',
+      'HTML',
+      'CSS',
       'SASS',
       'Bootstrap',
       'NodeJS',
-      'C#',
       'Git',
       'FIGMA'
   ],
@@ -86,7 +84,7 @@ intelligence courses. */
   Me siga ou entre em contato por:
   <div >
   <a href="https://instagram.com/est8r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:estermessias6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:estermessias.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ester-messias-08b706177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     Discord: ester#5050
   </div>
