@@ -10,7 +10,7 @@
 
   <br>
   
-  ## Sobre mim | Ela/Dela | 21 anos
+  ## Sobre mim | Ela/Dela | 22 anos
   Sempre gostei de novos desafios, por isso decidi me aventurar no mundo Tech iniciando meus estudos em Desenvolvimento Web, sou
   formada no bootcamp Full Stack oferecido pela instituição Resilia Educação e atualmente estou cursando bacharelado em Ciencia
   da Computação na Universidade Federal do ABC - UFABC.
@@ -57,7 +57,7 @@ change their lives through technology, technology that transforms the present an
 
 const aboutMe = {
   name: 'Ester Messias',
-  age: 21,
+  age: 22,
   about:'I am a FrontEnd Web developer student at UFABC',
   level: 'Junior',
   email: 'estermessias.dev@gmail.com'
