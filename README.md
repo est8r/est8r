@@ -1,42 +1,37 @@
-<div align="center"> <img src="https://user-images.githubusercontent.com/87023023/178999455-77c22620-693b-4a2c-9a14-78b78228894c.png" width="200" height="200"> </div>
-
-<br>
-
 <div align="center">
   <a href="https://github.com/est8r">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=est8r&show_icons=true&theme=dracula&include_all_commits=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=est8r&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=est8r&show_icons=true&theme=dracula&include_all_commits=true"/> 
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=est8r&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <br>
   
-  ## Sobre mim | Ela/Dela | 22 anos
-  Sempre gostei de novos desafios, por isso decidi me aventurar no mundo Tech iniciando meus estudos em Desenvolvimento Web, sou
-  formada no bootcamp Full Stack oferecido pela instituição Resilia Educação e atualmente estou cursando bacharelado em Ciencia
-  da Computação na Universidade Federal do ABC - UFABC.
-  Movida pelo impacto na vida das pessoas, me interessei pela área por enxergar possibilidades ilimitadas e incríveis de mudar a
-  vida delas através da tecnologia, ela que transforma o presente e vai revolucionar o futuro.
+  ## Sobre mim | Ela/Dela | 24 anos
+Com experiência na IBM, onde otimizei processos de dados resultando numa redução de 22% na ocupação de um banco de dados, atualmente atuo como Engenheira de Dados no desenvolvimento e automação de pipelines de ponta a ponta, desde a extração e tratamento (ETL) até à implementação em ambientes de nuvem, garantindo soluções de alta performance e escalabilidade.
 
-  Sou autodidata tendo assim adquirido conhecimento de nível avançado em inglês, também me comprometendo a evoluir meus
-  conhecimentos nessa incrível jornada do web design através de cursos de inteligencia artificial.
+Atualmente, utilizo tecnologias como Google Cloud, Python, Apache Spark e SQL para traduzir necessidades de negócio em insights e soluções técnicas eficazes. A minha base academica em Sistemas de Informação pela PUC Minas complementa a minha experiência prática, permitindo-me criar soluções robustas e inovadoras. 
+
+Complementando minha trajetória, conquistei certificações em Data Engineer Associate pela DataCamp, IBM WatsonX e Google Cloud Fundamentals, que reforçam meu compromisso com a inovação e a excelência em dados.
+
+Além da minha atuação corporativa, sou voluntária como Analista de Dados no Instituto Força Jovem Bushido, onde aplico as minhas competências em análise, engenharia, modelagem preditiva e criação de dashboards para gerar impacto social através dos dados. Busco ativamente por desafios que me permitam continuar a aliar tecnologia e dados para impulsionar o crescimento de negócios
   
   ## Interesses
-  - Web Design
-  - Inteligencia artificial
-  - Game Design & Developing
+  - Data Engineering
+  - Data Science
+  - Gen A.I and Machine Learning
   
  <br>
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="ester-Typescript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="ester-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ester-Sass" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img align="center" alt="ester-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="ester-Angular" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="ester-Bootstrap" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="ester-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ester-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ester-GCP" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+  <img align="center" alt="ester-AWS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="ester-Terraform" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+  <img align="center" alt="ester-SQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="ester-Spark" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+  <img align="center" alt="ester-Airflow" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
+  <img align="center" alt="ester-Gitlab" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="ester-R" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   <!-- <img align="center" alt="ester-csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="center" alt="ester-react" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     
 </div>
   
@@ -49,33 +44,40 @@
   ```JavaScript
 //ENGLISH
 
-/* I always liked new challenges, that's why I decided to venture into the Tech world starting my studies in Web Development,
-I graduated from the Full Stack bootcamp offered by Resilia Educação and I'm currently studying a bachelor's degree in Computer
-Science at the Federal University of ABC - UFABC.
- Moved by the impact on people's lives, I became interested in the area because I saw unlimited and incredible possibilities to
-change their lives through technology, technology that transforms the present and will revolutionize the future. */
+/* With experience at IBM, where I optimized data processes resulting in a 22% reduction in database occupancy,
+I currently work as a Data Engineer developing and automating end-to-end pipelines, from extraction and processing (ETL)
+to deployment in cloud environments, ensuring high-performance and scalable solutions.
+
+I currently use technologies such as Google Cloud, Python, Apache Spark, and SQL to translate business needs into
+insights and effective technical solutions. My academic background in Information Systems from PUC Minas complements
+my practical experience, enabling me to create robust and innovative solutions.
+
+I also earned Data Engineer Associate certifications from DataCamp, IBM WatsonX, and Google Cloud Fundamentals,
+reinforcing my commitment to innovation and data excellence.
+
+In addition to my corporate work, I volunteer as a Data Analyst at the Bushido Youth Force Institute, where I apply my
+skills in analysis, engineering, predictive modeling, and dashboard creation to generate social impact through data.
+I actively seek challenges that allow me to continue combining technology and data to drive business growth. */
 
 const aboutMe = {
   name: 'Ester Messias',
-  age: 22,
-  about:'I am a FrontEnd Web developer student at UFABC',
+  age: 24,
+  about:'I am a Data Engineer student at UFABC',
   level: 'Junior',
   email: 'estermessias.dev@gmail.com'
   linkedin: 'https://www.linkedin.com/in/ester-messias/'
   
-  programming_languages: ['javascript','react', 'angular', 'typescript'],
-  
   tools: [
-      'React',
-      'Angular',
-      'Typescript',
-      'HTML',
-      'CSS',
-      'SASS',
-      'Bootstrap',
-      'NodeJS',
+      'Python',
+      'SQL',
+      'Google Cloud Platform',
+      'AWS',
+      'Terraform',
+      'Pyspark',
+      'Apache Airflow',
+      'Gitlab',
       'Git',
-      'FIGMA'
+      'R'
   ],
   
   softSkills: ['self learning', 'mediation', 'planning', 'SCRUM method', 'emotional intelligence', 'organization', 'team work']
@@ -85,16 +87,12 @@ showInfo: function() {
     alert("Contact me: " + this.email + "and " + this.linkedin);
   }
 
-/*I am self-taught, having thus acquired advanced level knowledge in English, basic II in Spanish and currently learning
-French, also committing to evolve my knowledge in this incredible journey of web design through UX/UI and artificial 
-intelligence courses. */
 ```
   
   
   Me siga ou entre em contato por:
   <div >
-  <a href="https://instagram.com/est8r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:estermessias.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ester-messias-08b706177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    Discord: ester#5050
+  <a href="https://www.linkedin.com/in/ester-messias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    Discord: @est8r
   </div>
