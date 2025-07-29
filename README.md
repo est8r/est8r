@@ -1,7 +1,18 @@
 <div align="center">
   <a href="https://github.com/est8r">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=est8r&show_icons=true&theme=dracula&include_all_commits=true"/> 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=est8r&layout=compact&langs_count=7&theme=dracula"/>
+  <picture>
+    <source
+      height="140em"
+      srcset="https://github-readme-stats.vercel.app/api?username=est8r&show_icons=true&theme=material-palenight"
+    />
+  <source
+    height="140em"
+    srcset="https://github-readme-stats.vercel.app/api?username=est8r&show_icons=true&them=material-palenight"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=est8r&show_icons=true" />
+</picture>
+    
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=est8r&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
   <br>
